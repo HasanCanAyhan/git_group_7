@@ -1,4 +1,4 @@
-public class Payment {
+public class Korshad {
 
     // payment class created
 
